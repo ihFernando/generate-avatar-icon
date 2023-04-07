@@ -1,6 +1,6 @@
 # Generate Avatar Icon
 
-This is a test about how to export a file (_.jpg/.png_) using **<Canvas>**. I tried to replicate those avatars that uses the first letter of firstname and lastname.
+This is a test about how to export a file (_.jpg/.png_) using **Canvas**. I tried to replicate those avatars that uses the first letter of firstname and lastname.
 
 Example:
 
